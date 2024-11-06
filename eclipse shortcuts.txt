@@ -1,0 +1,20 @@
+ctrl+shift+x - uppercase
+ctrl+shift+y - lowercase
+alt+up/down - move lines up/down
+alt+shift+z - surround highlighted text with try catch
+ctrl+shift+f - formats the highlighted text
+ctrl+shift+o - imports
+alt+shift+R = rename a variable across the code
+ctrl+L - jump to specified line
+ctrl+o - jump to method
+alt+shift+M - copy the selected text into new method
+ctrl+d - delete a row
+ctrl+alt+h - call hierarchy
+f4 - class hierarchy of a selected class
+ctrl+shift+p - jump to beginning/end of  {},[],()
+f3 - jump to method decla
+f3 - jump to variable declar
+ctrl+shift+R - to find the file with name
+alt+left arrow/right arrow - jump to last place editing
+ctrl+f11 - run
+ctrl+shift+L - eclipse shortcuts
